@@ -1,0 +1,44 @@
+{
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "TabSet2",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": false
+    },
+    "editor_theme": "Northern Lights",
+    "default_project_location": "~/GitHub",
+    "document_author": "Dave Gruenewald",
+    "wrap_tab_navigation": false,
+    "reuse_sessions_for_project_links": true,
+    "windows_terminal_shell": "win-git-bash",
+    "save_workspace": "never",
+    "load_workspace": false,
+    "jobs_tab_visibility": "shown",
+    "always_save_history": false,
+    "show_invisibles": true,
+    "show_indent_guides": true,
+    "syntax_color_console": true,
+    "scroll_past_end_of_document": true,
+    "highlight_r_function_calls": true,
+    "margin_column": 100
+}
