@@ -5,7 +5,7 @@
 /* Version: 0.1.0.91 */
 
 .ace_gutter {
-  background: #313742;
+  background: #262C38;
   color: #8C8E93;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #313742;
+  background-color: #262C38;
   color: #ffffff;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .ace_selection.ace_start {
-  box-shadow: 0 0 3px 0px #313742;
+  box-shadow: 0 0 3px 0px #262C38;
   border-radius: 2px;
 }
 
@@ -104,6 +104,16 @@
 
 .ace_support.ace_function {
   color: #78DBC9;
+
+}
+
+.ace_support.ace_function.ace_codebegin {
+  color: #73F1FA;
+
+}
+
+.ace_support.ace_function.ace_codeend {
+  color: #73F1FA;
 
 }
 
@@ -225,7 +235,7 @@
   background-color: #474B52;
 }
 .terminal {
-  background-color: #313742;
+  background-color: #262C38;
   color: #ffffff;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -252,10 +262,10 @@
    background-color: #CCC;
 }
 .terminal .xterm-viewport {
-  background-color: #313742;
+  background-color: #262C38;
   overflow-y: scroll;
 }
-.xtermInvertColor { color: #313742; }
+.xtermInvertColor { color: #262C38; }
 .xtermInvertBgColor { background-color: #ffffff; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
