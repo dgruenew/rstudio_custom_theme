@@ -8,5 +8,5 @@ _Custom themes for RStudio v1.2+_
   1. Run this one line of R code!
 
 ```
-rstudioapi::addTheme("https://raw.githubusercontent.com/dgruenew/rstudio_custom_theme/master/Northern_Lights.rstheme", TRUE, TRUE, FALSE)`
+rstudioapi::addTheme("https://raw.githubusercontent.com/dgruenew/rstudio_custom_theme/master/Northern_Lights.rstheme", TRUE, TRUE, FALSE)
 ```
